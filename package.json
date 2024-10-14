@@ -1,0 +1,15 @@
+{
+  "name": "diwalideep",
+  "version": "1.0.0",
+  "description": "devloped the code for dewali deep",
+  "main": "script.js",
+  "scripts": {
+    "start":"nodemon server/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
